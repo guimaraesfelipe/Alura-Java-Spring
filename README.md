@@ -37,5 +37,29 @@
 ##
 
 ### *2 - Curso de Spring Boot API Rest: Segurança da API, Cache e Monitoramento*
-![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-green)
+![status](https://img.shields.io/badge/status-Concluído-green)
 
+✅ Introdução ao Spring Boot.
+
+✅ Paginação e ordenação de recursos.
+
+✅ Melhorando desempenho com Spring Cache.
+
+✅ Proteção com Spring Security.
+
+✅ Gerando token com JWT.
+
+✅ Autenticação via JWT.
+
+✅ Monitoramento com Spring Boot Actuator.
+
+✅ Documentação da API com Swagger
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/64509839/181359674-556d719b-0516-46c3-b77a-1c6853375e7d.png" />
+</div>
+
+##
+
+### *3 - Spring Boot e Teste: Profiles, Testes e Deploy*
+![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
