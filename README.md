@@ -1,5 +1,5 @@
 # Spring Framework
-![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-brightgreen)
+![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 ![java-version](https://img.shields.io/badge/language-Java-red)
 ![api](https://img.shields.io/badge/framework-Spring-green)
 
@@ -62,7 +62,7 @@
 ##
 
 ### *3 - Spring Boot e Teste: Profiles, Testes e Deploy*
-![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
+![status](https://img.shields.io/badge/status-Concluído-green)
 
 ✅ Mais segurança.
 
