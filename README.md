@@ -53,7 +53,7 @@
 
 ✅ Monitoramento com Spring Boot Actuator.
 
-✅ Documentação da API com Swagger
+✅ Documentação da API com Swagger.
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/64509839/181359674-556d719b-0516-46c3-b77a-1c6853375e7d.png" />
@@ -63,3 +63,17 @@
 
 ### *3 - Spring Boot e Teste: Profiles, Testes e Deploy*
 ![status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
+
+✅ Mais segurança.
+
+✅ Profiles.
+
+✅ Testes automatizados.
+
+✅ Deploy.
+
+✅ Deploy com Docker e na nuvem.
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/64509839/181655224-0d65fc2f-37c9-4e08-bd31-b70af8f3eef4.png" />
+</div>
